@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "https://irelandlife.github.io/Astroids",
+  "homepage": "http://irelandlife.github.io/Astroids",
   "dependencies": {
     "-": "0.0.1",
     "gh-pages": "^3.1.0",
